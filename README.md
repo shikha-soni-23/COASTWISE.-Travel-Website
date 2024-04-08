@@ -16,7 +16,7 @@ The Travel Website is a modern web application built using React.js and Tailwind
 - **User-friendly Experience**: Prioritizes user experience by providing clear navigation, descriptive content, and intuitive design elements.
 
 ## Links
-- **LIVE SITE URL** : [Click here]()
+- **LIVE SITE URL** : [Click here](https://coastwise-travel-website.pages.dev/)
 - **React.js**: https://reactjs.org/
 - **Tailwind CSS**: https://tailwindcss.com/
 - **Google Fonts**: https://fonts.google.com/
